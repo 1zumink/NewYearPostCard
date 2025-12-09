@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: #eee;
+  justify-content: center;
+}
+
+.Top {
+  display: flex;
+}
+.Balls {
+  display: flex;
+}
+.Line1 {
+  display: flex;
+}
+.Line2 {
+  display: flex;
+}
+.Stars {
+  display: flex;
+}
+.SnowflakesLeft {
+  width: 25.88vw;
+  height: 41.92vw;
+  background-image: url("../images/snowflakesleft.png");
+  animation: snowleft 1s infinite steps(1);
+}
+.SnowflakesRight {
+  width: 25.88vw;
+  height: 41.92vw;
+  background-image: url("../images/snowflakesright.png");
+  animation: snowright 1s infinite steps(1);
+}
+.Tree {
+  width: 48.24vw;
+  height: 41.92vw;
+  background-image: url("../images/tree.png");
+  animation: treeshine 1s infinite steps(1);
+}
+.balls {
+  width: 100vw;
+  height: 16.75vw;
+  background-image: url("../images/balls.png");
+  animation: ballsswap 1s infinite steps(1);
+}
+.ho1 {
+  width: 74.12vw;
+  height: 15.68vw;
+  background-image: url("../images/ho1.png");
+  animation: ho1run 10s infinite linear;
+  background-color: red;
+}
+.cane1 {
+  width: 25.88vw;
+  height: 15.68vw;
+  background-image: url("../images/cane1.png");
+  animation: cane1run 1s infinite steps(1);
+}
+.ho2 {
+  width: 74.12vw;
+  height: 15.68vw;
+  background-image: url("../images/ho2.png");
+  animation: ho2run 10s infinite linear;
+  background-color: white;
+}
+.cane2 {
+  width: 25.88vw;
+  height: 15.68vw;
+  background-image: url("../images/cane2.png");
+  animation: cane2run 1s infinite steps(1);
+}
+.stars {
+  width: 100vw;
+  height: 9.98vw;
+  background-image: url("../images/stars.png");
+  animation: starsswap 1s infinite steps(1);
+}

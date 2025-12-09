@@ -1,0 +1,101 @@
+@keyframes snowleft {
+  0% {
+    background-position-x: 0;
+  }
+  25% {
+    background-position-x: -25.88vw;
+  }
+  50% {
+    background-position-x: -51.76vw;
+  }
+  75% {
+    background-position-x: -77.64vw;
+  }
+  100% {
+    background-position-x: -103.52vw;
+  }
+}
+@keyframes snowright {
+  0% {
+    background-position-x: 0;
+  }
+  25% {
+    background-position-x: -25.88vw;
+  }
+  50% {
+    background-position-x: -51.76vw;
+  }
+  75% {
+    background-position-x: -77.64vw;
+  }
+  100% {
+    background-position-x: -103.52vw;
+  }
+}
+@keyframes treeshine {
+  0% {
+    background-position-x: 0;
+  }
+
+  50% {
+    background-position-x: -48.24vw;
+  }
+
+  100% {
+    background-position-x: -96.48vw;
+  }
+}
+@keyframes ballsswap {
+  0% {
+    background-position-x: 0;
+  }
+  50% {
+    background-position-x: -100vw;
+  }
+}
+@keyframes ho1run {
+  0% {
+    background-position-x: 74.12vw;
+  }
+  50% {
+    background-position-x: -74.12vw;
+  }
+}
+@keyframes cane1run {
+  0% {
+    background-position-x: 0;
+  }
+  50% {
+    background-position-x: -25.88vw;
+  }
+}
+@keyframes ho2run {
+  0% {
+    background-position-x: 74.12vw;
+  }
+  50% {
+    background-position-x: -74.12vw;
+  }
+}
+@keyframes cane2run {
+  0% {
+    background-position-x: 0;
+  }
+  50% {
+    background-position-x: -25.88vw;
+  }
+}
+@keyframes starsswap {
+  0% {
+    background-position-x: 0;
+  }
+  25% {
+    background-position-x: -100vw;
+  }
+  50% {
+    background-position-x: -200vw;
+  }
+  75% {
+    background-position-x: -300vw;
+  }
+}
