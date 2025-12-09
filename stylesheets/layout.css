@@ -23,57 +23,69 @@ body {
 }
 .SnowflakesLeft {
   width: 25.88vw;
-  height: 41.92vw;
+  height: 59vw;
   background-image: url("../images/snowflakesleft.png");
   animation: snowleft 1s infinite steps(1);
+  background-size: 129.4vw;
 }
 .SnowflakesRight {
   width: 25.88vw;
-  height: 41.92vw;
+  height: 59vw;
   background-image: url("../images/snowflakesright.png");
   animation: snowright 1s infinite steps(1);
+  background-size: 129.4vw;
 }
 .Tree {
   width: 48.24vw;
-  height: 41.92vw;
+  height: 59vw;
   background-image: url("../images/tree.png");
   animation: treeshine 1s infinite steps(1);
+  background-size: 144.72vw;
 }
 .balls {
   width: 100vw;
-  height: 16.75vw;
+  height: 23vw;
   background-image: url("../images/balls.png");
   animation: ballsswap 1s infinite steps(1);
+  background-size: 200vw;
 }
 .ho1 {
   width: 74.12vw;
-  height: 15.68vw;
+  height: 22.68vw;
   background-image: url("../images/ho1.png");
-  animation: ho1run 10s infinite linear;
+  animation: ho1run 2s infinite linear;
   background-color: red;
+  background-size: 76vw;
+  background-repeat: no-repeat;
+  animation-direction: alternate-reverse;
 }
 .cane1 {
   width: 25.88vw;
-  height: 15.68vw;
+  height: 22.68vw;
   background-image: url("../images/cane1.png");
   animation: cane1run 1s infinite steps(1);
+  background-size: 51.76vw;
 }
 .ho2 {
   width: 74.12vw;
-  height: 15.68vw;
+  height: 22.68vw;
   background-image: url("../images/ho2.png");
-  animation: ho2run 10s infinite linear;
+  animation: ho2run 2s infinite linear;
   background-color: white;
+  background-size: 76vw;
+  background-repeat: no-repeat;
 }
 .cane2 {
   width: 25.88vw;
-  height: 15.68vw;
+  height: 22.68vw;
   background-image: url("../images/cane2.png");
   animation: cane2run 1s infinite steps(1);
+  background-size: 51.76vw;
 }
 .stars {
   width: 100vw;
-  height: 9.98vw;
+  height: 14vw;
   background-image: url("../images/stars.png");
   animation: starsswap 1s infinite steps(1);
+  background-size: 400vw;
 }

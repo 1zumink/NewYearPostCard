@@ -55,10 +55,13 @@
 }
 @keyframes ho1run {
   0% {
-    background-position-x: 74.12vw;
+    background-position-x: -20vw;
   }
   50% {
-    background-position-x: -74.12vw;
+    background-position-x: 20vw;
+  }
+  100% {
+    background-position-x: -20vw;
   }
 }
 @keyframes cane1run {
@@ -71,10 +74,13 @@
 }
 @keyframes ho2run {
   0% {
-    background-position-x: 74.12vw;
+    background-position-x: 20vw;
   }
   50% {
-    background-position-x: -74.12vw;
+    background-position-x: -20vw;
+  }
+  100% {
+    background-position-x: 20vw;
   }
 }
 @keyframes cane2run {
