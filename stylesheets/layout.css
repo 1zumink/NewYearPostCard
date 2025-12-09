@@ -24,52 +24,51 @@ body {
 .SnowflakesLeft {
   width: 25.88vw;
   height: 59vw;
-  background-image: url("../images/snowflakesleft.png");
+  background-image: url("../images/snowflakesleft.svg");
   animation: snowleft 1s infinite steps(1);
   background-size: 129.4vw;
 }
 .SnowflakesRight {
   width: 25.88vw;
   height: 59vw;
-  background-image: url("../images/snowflakesright.png");
+  background-image: url("../images/snowflakesright.svg");
   animation: snowright 1s infinite steps(1);
   background-size: 129.4vw;
 }
 .Tree {
   width: 48.24vw;
   height: 59vw;
-  background-image: url("../images/tree.png");
+  background-image: url("../images/tree.svg");
   animation: treeshine 1s infinite steps(1);
   background-size: 144.72vw;
 }
 .balls {
   width: 100vw;
   height: 23vw;
-  background-image: url("../images/balls.png");
+  background-image: url("../images/balls.svg");
   animation: ballsswap 1s infinite steps(1);
   background-size: 200vw;
 }
 .ho1 {
   width: 74.12vw;
   height: 22.68vw;
-  background-image: url("../images/ho1.png");
+  background-image: url("../images/ho1.svg");
   animation: ho1run 2s infinite linear;
   background-color: red;
   background-size: 76vw;
   background-repeat: no-repeat;
-  animation-direction: alternate-reverse;
 }
 .cane1 {
   width: 25.88vw;
   height: 22.68vw;
-  background-image: url("../images/cane1.png");
+  background-image: url("../images/cane1.svg");
   animation: cane1run 1s infinite steps(1);
   background-size: 51.76vw;
 }
 .ho2 {
   width: 74.12vw;
   height: 22.68vw;
-  background-image: url("../images/ho2.png");
+  background-image: url("../images/ho2.svg");
   animation: ho2run 2s infinite linear;
   background-color: white;
   background-size: 76vw;
@@ -78,14 +77,14 @@ body {
 .cane2 {
   width: 25.88vw;
   height: 22.68vw;
-  background-image: url("../images/cane2.png");
+  background-image: url("../images/cane2.svg");
   animation: cane2run 1s infinite steps(1);
   background-size: 51.76vw;
 }
 .stars {
   width: 100vw;
   height: 14vw;
-  background-image: url("../images/stars.png");
+  background-image: url("../images/stars.svg");
   animation: starsswap 1s infinite steps(1);
   background-size: 400vw;
 }
